@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I have 10 years of experience in frontend development. I Have experience in HTML5 CSS3 JavaScript TypeScript Angular Node.js Vue.js MongoDB
+I have 10 years of experience in frontend development.
 
 * 🌍  I'm based in Pune, India
 * ✉️  You can contact me at [snehalpattiwar@gmail.com](mailto:snehalpattiwar@gmail.com)
